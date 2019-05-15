@@ -4,10 +4,10 @@ description: |
   하루 한편, 생각과 일상을 글로 남깁니다.
   솔직하고 담백한 글을 씁니다.
 baseurl: ''
-url: 'http://morisong.github.io'
+url: 'http://seolkiwhite.github.io'
 timezone: Asia/Seoul 
 
-repository: MoriSong/morisong.github.io
+repository: SeolkiWhite/seolkiwhite.github.io
 
 permalink: /:year/:month/:day/:title/
 
@@ -50,19 +50,19 @@ exclude: [README.md, Gemfile, Gemfile.lock]
 keep_files: [assets, files]
 github: [metadata]
 # iolo's custom
-author: guseod24@gmail.com
+author: seolki
 image: '/assets/images/default_blog_cover.jpg'
 asset_url: /assets
 #asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
 #asset_url: //t1.daumcdn.net/osa/blog/assets
 google_analytics:
   ua: 'UA-72007721-1'
-facebook:
-  app_id: -
-  username: -
-twitter:
-  username: -
-google_plus:
-  username: -
-github_url:
-  username: MoriSong
+# facebook:
+#   app_id: '1204347326263800'
+#   username: nkakao
+# twitter:
+#   username: kakaodev
+# google_plus:
+#   username: kakaodev
+# github_url:
+#   username: kakao
