@@ -7,7 +7,7 @@ baseurl: ''
 url: 'http://tech.kakao.com'
 timezone: Asia/Seoul 
 
-repository: kakao/kakao.github.io
+repository: MoriSong/morisong.github.io
 
 permalink: /:year/:month/:day/:title/
 
