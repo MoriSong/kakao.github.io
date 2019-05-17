@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '대중교통의 묘미(妙味)'
+title: '대중교통의 묘미'
 author: seolki
 date: 2019-05-17 23:38
 tags: [daily]
